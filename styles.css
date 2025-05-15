@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 2px solid red; */
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    height: 20px;
+    width: 20px;
+    outline: 1px solid red;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.row {
+    display: flex;
+}
+  
+.cell {
+    width: 25px;
+    height: 25px;
+    background-color: lightgray;
+    outline: 1px solid red;
+} */
